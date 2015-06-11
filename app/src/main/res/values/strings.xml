@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sensores</string>
+
+    <string name="hello_world"></string>
+    <string name="mensaje">SENSORES DE TU CELULAR</string>
+    <string name="mensaje2">INFORMACION DE ALGUNOS DE TUS SENSORES</string>
+    <string name="action_settings">Settings</string>
+</resources>

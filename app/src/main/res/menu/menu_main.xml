@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+
+    <item android:id="@+id/iniciar"
+        android:title="Iniciar sensores"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/detener"
+        android:title="Detener Sensores"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/limpiar"
+        android:title="Limpiar Pantalla"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+</menu>
